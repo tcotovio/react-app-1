@@ -1,3 +1,8 @@
 Descrever o projeto e dar exemplos.
 
-# Example...
+# Examples
+
+```
+getURLSlug("My Favorite Song");
+//=> 'my-favorite.-song'
+```
