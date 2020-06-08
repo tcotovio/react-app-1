@@ -1,0 +1,34 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "name": "Setup Server",
+      "isComplete": true
+    },
+    {
+      "id": 2,
+      "name": "Start Server",
+      "isComplete": false
+    },
+    {
+      "id": 3,
+      "name": "Connect to Server",
+      "isComplete": false
+    },
+    {
+      "id": 63379,
+      "name": "Done",
+      "isComplete": true
+    },
+    {
+      "id": 96907,
+      "name": "New todo",
+      "isComplete": true
+    },
+    {
+      "id": 94652,
+      "name": "Also new",
+      "isComplete": true
+    }
+  ]
+}
