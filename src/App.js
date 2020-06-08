@@ -12,6 +12,7 @@ class App extends Component{
     todos: [],
     currentTodo: ''
   }
+  
 
   //in order to access route from content??
   static contextTypes = {
