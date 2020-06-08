@@ -4,5 +4,5 @@ Descrever o projeto e dar exemplos.
 
 ```
 getURLSlug("My Favorite Song");
-//=> 'my-favorite.-song'
+//=> 'my-favorite-song'
 ```
